@@ -43,4 +43,4 @@ Example Return for Receipt Created Above:
 }
 
 ## Why Django?
--Django is what I know best. I know it's a bit large and overly powerful for this application, but I think that this showcases my ability to use and learn frameworks. I am and am confident that I would be able to pickup languages such as Go very quickly if needed for the role!
+-Django is what I know best. I know it's a bit large and overly powerful for this application, but I think that this showcases my ability to use and learn frameworks. I am confident that I would be able to pickup languages such as Go very quickly if needed for the role!
